@@ -15,10 +15,12 @@ export default {
     marginRight: 20,
   },
   paper: {
+    margin: 20,
     padding: 10,
-    textAlign: 'center',
-    width: '50%',
-    margin: 'auto'
+    textAlign: 'right',
+    color: 'white',
+    background: 'transparent',
+    boxShadow: 'none'
     // color: theme.palette.text.secondary,
   },
 };

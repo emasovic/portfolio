@@ -9,4 +9,5 @@ export default {
   status: {
     danger: 'orange',
   },
+  navBackground: 'linear-gradient( to bottom right, #090424, #010156 )'
 }
